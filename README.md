@@ -2,52 +2,83 @@
 
 # Hola, soy Miguel Gaspar 👋
 
-### Desarrollador de aplicaciones web centrado en productos útiles, rápidos y fiables
+### Ingeniero Mecatrónico | Data, IA & Automatización
 
-Construyo soluciones digitales pensadas para resolver problemas reales, con especial atención a la experiencia de usuario, el funcionamiento offline y un código mantenible.
+Combino ingeniería industrial, desarrollo de software y análisis de datos para diseñar soluciones que mejoran procesos, reducen trabajo manual y facilitan la toma de decisiones.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Gaspar_Piquero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelgasparpiquero/)
 [![GitHub](https://img.shields.io/badge/GitHub-miguelgasparpiquero-181717?style=for-the-badge&logo=github)](https://github.com/miguelgasparpiquero)
 
 </div>
 
-## Sobre mí
+## Perfil profesional
 
-- 🔭 Actualmente desarrollo una **PWA de gestión de mesas, comandas y cocina**.
-- 📱 Me interesa crear aplicaciones instalables, rápidas y adaptadas a móvil.
-- 🔄 Trabajo con sincronización en tiempo real, persistencia local y experiencias offline-first.
-- 🧩 Disfruto transformando procesos cotidianos en herramientas sencillas y robustas.
-- 📍 España.
+Soy **Ingeniero Mecatrónico** con experiencia en automatización industrial, digitalización de procesos, análisis de datos y coordinación de proyectos técnicos en entornos internacionales.
 
-## Tecnologías
+Actualmente trabajo en **PARIVER S.A. para BSH Group**, participando en proyectos de automatización de procesos: desde el análisis y la definición funcional hasta el desarrollo, las pruebas y el despliegue. Desarrollo soluciones con Python conectadas a entornos SAP, procesos ETL, análisis de datos operativos y cuadros de mando para el seguimiento de KPIs.
+
+He completado un **Máster en Big Data, Data Science e Inteligencia Artificial** en la Universidad Complutense de Madrid y cuento con la certificación **Snowflake Platform Association**.
+
+## Áreas de especialización
+
+- ⚙️ Automatización y optimización de procesos industriales.
+- 🐍 Desarrollo de soluciones y pipelines con Python.
+- 📊 Análisis de datos, KPIs y reporting con SQL y Power BI.
+- 🤖 Machine Learning, forecasting, clustering y análisis PCA.
+- 🧠 Transformers, fine-tuning y evaluación de modelos.
+- 🏭 Integración de procesos operativos con SAP.
+- 🤝 Coordinación entre usuarios, negocio y equipos técnicos internacionales.
+
+## Stack tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,vite,firebase,nodejs,git,github" alt="TypeScript, JavaScript, HTML, CSS, React, Vite, Firebase, Node.js, Git y GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,mongodb,azure,docker,git,github,ts,react,vite,firebase" alt="Python, PyTorch, PostgreSQL, MongoDB, Azure, Docker, Git, GitHub, TypeScript, React, Vite y Firebase" />
 </p>
 
-## En qué estoy trabajando
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Data_Engineering-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Snowflake-Platform_Associate-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/SAP-Process_Automation-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP" />
+  <img src="https://img.shields.io/badge/scikit--learn-Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+</p>
+
+## Proyectos destacados
+
+### Automatización end-to-end con Python + SAP
+
+Flujo automatizado para extraer planes de producción y órdenes desde SAP, aplicar reglas de validación, optimizar cargas de trabajo y generar información operativa. La solución reduce tareas manuales y errores de proceso.
+
+### Data Science & forecasting
+
+Proyectos de análisis multidimensional con PCA y clustering, además de predicción de series temporales con redes RNN/LSTM, incluyendo preparación de datos, entrenamiento, evaluación y optimización.
+
+### LLM & transformer fine-tuning
+
+Preparación de datasets y ajuste fino de modelos transformer para tareas de clasificación mediante PyTorch y Hugging Face, con evaluación detallada de rendimiento.
 
 ### Comandero PWA
 
-Aplicación web instalable para gestionar mesas, pedidos, cocina, catálogo y cierres de servicio desde distintos dispositivos.
+Aplicación web instalable para gestionar mesas, pedidos, cocina y cierres de servicio desde varios dispositivos. Desarrollada con TypeScript, React, Firebase, Firestore e IndexedDB, con sincronización multiusuario y funcionamiento offline.
 
-- Interfaz móvil y experiencia PWA.
-- Sincronización multiusuario con Firebase y Firestore.
-- Persistencia offline mediante IndexedDB.
-- Gestión de comandas, tickets de cocina, catálogo e historial.
-- Importación, exportación y validación de copias de seguridad.
-- Desarrollo con TypeScript, React y Vite.
+## Formación y certificaciones
 
-> El código del proyecto es privado porque está adaptado a las necesidades concretas del negocio.
+- 🎓 **Máster en Big Data, Data Science e Inteligencia Artificial** — Universidad Complutense de Madrid, 2025.
+- 🎓 **Grado en Ingeniería Mecatrónica** — EUPLA, Escuela Universitaria Politécnica de La Almunia.
+- 🏅 **Snowflake Platform Association Certification**, 2025.
+- 🔧 Técnico Superior en Mecatrónica Industrial y Técnico en Mantenimiento Electromecánico.
 
-## Mi forma de trabajar
+## Experiencia técnica adicional
 
-```text
-Entender el problema → diseñar una solución simple → construir → probar → mejorar
-```
+También cuento con base práctica en mantenimiento industrial, electricidad y electrónica, cuadros eléctricos, sistemas neumáticos e hidráulicos, PLC Siemens S7/TIA Portal y diseño técnico con AutoCAD, Inventor, KiCad y FluidSim.
 
-Valoro el código claro, las decisiones prácticas y los productos que funcionan bien fuera del entorno de desarrollo.
+## Idiomas
 
-## Actividad
+- **Español:** nativo.
+- **Inglés:** competencia profesional y uso diario en equipos internacionales.
+
+## Actividad en GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=miguelgasparpiquero&show_icons=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub de Miguel Gaspar" />
@@ -57,5 +88,5 @@ Valoro el código claro, las decisiones prácticas y los productos que funcionan
 ---
 
 <div align="center">
-  <strong>Construyendo software útil, una mejora cada vez.</strong>
+  <strong>Ingeniería, datos y automatización para convertir procesos complejos en soluciones útiles.</strong>
 </div>
